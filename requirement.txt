@@ -1,0 +1,11 @@
+Projet informatique, équipe 22 : création d’une API REST
+
+Ce fichier explique les dépendances nécessaires pour faire fonctionner notre projet.
+
+Pour faire fonctionner notre code, il est nécessaire d'installer plusieurs modules en python :
+- requests, permettant de faire des requêtes HTTP (le code associé dans le terminal est : "pip install requests"),
+- flask, permettant de faire tourner l'API (le code associé dans le terminal est : "pip install flask"),
+- psycopg2, permettant de se connecter à la base de données SQL (le code associé dans le terminal est : "pip install psycopg2"),
+- hashlib, permettant de hasher les mots de passe (la code associé dans le terminal est : "pip install hashlib").
+
+Il faut également changer le chemin des assets. Ce fichier est dans client/assets/assets.py.
