@@ -1,0 +1,16 @@
+                    
+                    ===========================================================
+                    =                                                         =
+                    =                Bienvenue dans le 1000 bornes            =
+                    =                                                         =
+                    ===========================================================
+                    =   Explication des cartes:                               =
+                    =                                                         =
+                    =   @ devant la carte veut dire que c'est un soin         =
+                    =   ! devant la carte veut dire que c'est une attaque     =
+                    =   * devant la carte veut dire que c'est un Joker        =
+                    =   BXXX vous fait avancer de XXX bornes                  =
+                    =                                                         =
+                    ===========================================================
+
+                    
